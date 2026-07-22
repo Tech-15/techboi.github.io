@@ -1,0 +1,17 @@
+Base Colour
+
+#15CB3C <- Lightest
+#1CB738
+#1FA333
+#218F2F
+#217C2B
+#206A26
+#1E5821
+#1B461D
+#183618
+#142613
+#0D170B <- Darkest
+
+Complementary Colours
+#9715CB = Purple
+#CB1549 = Dark Pink
