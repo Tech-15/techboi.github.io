@@ -1,15 +1,23 @@
-# blank-gh-site
 
-This repository provides minimal HTML for starting a new web site!
+# Techboi's Personal Website
 
-Your own unique website can be your identity on the Internet! You can use it to set up a simple personal page that lets you use [IndieAuth](https://indieweb.org/IndieAuth) and [social readers](https://indieweb.org/social_reader).
+<p>here is where ill make updates and any documentation for my projects</p>    
+<p>please keep in mind that i am ***learning*** and that this is ***NOT*** going to be the most interesting website</p>
 
-## How to play
 
-1. Fork this repository to your user account by clicking the ( Fork ) button at the top.
-2. Rename it to `<yourusername>.github.io` by clicking "⚙︎ Settings" and typing in the field under "Repository name"
-3. Edit `index.html` and put stuff there.
-4. Wait a minute for GitHub to publish your site. Then, check `<yourusername>.github.io` in a new browser tab
-5. (Optional) [Point your domain to Github](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
+# TO-DO (No Perticular Order)
 
-Per [CC0](http://creativecommons.org/publicdomain/zero/1.0/), to the extent possible under law, [the contributors](https://github.com/indieweb/blank-gh-site/graphs/contributors) have waived all copyright and related or neighboring rights to this work.
+- Incorperate my [Retro Achievements](https://retroachievements.org/) Account
+  - Tracking my Points Earnt and as a less detailed version of my actual user account
+  - Want to play List?
+- Make an "About Me"
+- Blog Page perhaps?
+  - TIMELINE
+  - Accordion Menu
+- Portfolio?
+  - Unsure on logistics, as i would like that to be more personal
+- Navigation Menu
+- Custom 404 Page
+- Video Game Review Page
+  - Newsletter 
+- Feedback Forum?
