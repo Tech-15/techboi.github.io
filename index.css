@@ -1,20 +1,46 @@
-head {
-	accent-color: #9715CB;
+@media (prefers-color-scheme: dark) {
+      html { background-color: #15cb3c; color: #9715CB; }
+      a { color: #9715CB; }
+    }
+@font-face {
+	font-family: Audiowide;
+	src: url(Audiowide-Regular.ttf);
+}	
+@font-face {
+	font-family: Silkscreen;
+	src: url(Silkscreen-Regular.ttf);
 }
-.hello img{
-	display: block;
-	width: 75%;
-	margin-left: auto;
-	margin-right: auto;
-	align-self: top;
-}
-.hello h1{
-	position:relative
-
-}
-body {
-	background-color: #000000;
-}
-div {
-	color: #9715CB
-}
+    body {
+      line-height: 1.6;
+      font-family: system-ui, lucida-console;
+      text-align: center;
+      margin: 1rem auto;
+      min-height: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+	  background-color: #000000;
+    }
+	
+    img.u-photo { border-radius: 50%; }
+    ul { padding: 0; list-style: none; }
+	
+	head {
+		color: #9715CB;
+	}
+	
+	h2 {
+		font-family: Silkscreen;
+	}
+	
+	.test {
+		font-family: Audiowide;
+		color: #9715CB;
+		margin: %
+	}
+	
+	div {
+		color: #9715CB;
+		font-family: Silkscreen;
+	}
